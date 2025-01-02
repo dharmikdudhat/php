@@ -1,0 +1,26 @@
+//jquery validatior plugin use for validation // done
+//c image upload only .png and .jpg file only validation both server side//done
+//listing image showing //done
+
+//edit also image change and delete in server side only if image change then only validation other wise//done
+//unlink function use it for it//done
+
+// add password and encrypt it before saving it//done
+// using email id and password user logging and save users data in session//done
+// after logging show welcome user with its name//done
+
+//message successfully logged in and logged out//done
+//hittoster js library for message//done
+//and use ajax for redirecting//done
+
+//jquery data table in plce of users normal table//done
+//filter searce sort in this plugin only//done
+//fetch the data in table from server side through ajax //done
+
+
+//update delete users direct with the user place in update create modal and in delete craete sweet alert like thing //done
+//registration on same page as uerss table//done
+
+//add pagination feature correctly//done
+//do something like tghat if i delete the item from 10 page then i shouldbe remain on 10 th page and not come to the 1 pafge//done
+//oops concept

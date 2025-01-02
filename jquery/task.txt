@@ -1,0 +1,6 @@
+1. listing table from bootstarp table of user which includes email fisrt name lastname salary 
+
+2, craete in database form using AJAX
+
+3. edit/update and delete also
+
